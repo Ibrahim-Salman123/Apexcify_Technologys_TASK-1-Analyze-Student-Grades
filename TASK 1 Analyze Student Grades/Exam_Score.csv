@@ -1,0 +1,57 @@
+S. No.,NAME OF THE STUDENT,UNIVERSITY,PROGRAM NAME,Specialisation,SEMESTER,Domain,Math,English,Science,Total
+1,Michael Jackson,"Harvard University, USA",MBA,International Business,3rd,IB,50,49,99,198
+2,Nicholas Clark,"Harvard University, USA",MBA,International Business,3rd,IB,49,49,98,196
+3,Harper Turner,"Harvard University, USA",MBA,International Business,3rd,IB,49,48,97,194
+4,Carter Hall,"Harvard University, USA",MBA,International Business,3rd,IB,50,47,97,194
+5,Abigail Bailey,"Harvard University, USA",MBA,International Business,3rd,IB,47,48,95,190
+6,Joseph Diaz,"Harvard University, USA",MBA,International Business,3rd,IB,49,46,95,190
+7,Avery Gonzalez,"Harvard University, USA",MBA,Innovation Entrepreneurship and Venture Development,3rd,E&I,49,43,92,184
+8,Lily Davis,"Harvard University, USA",MBA,Innovation Entrepreneurship and Venture Development,3rd,E&I,49,43,92,184
+9,Matthew Johnson,"Harvard University, USA",MBA,International Business,3rd,IB,49,43,92,184
+10,Benjamin Martin,"Harvard University, USA",MBA,International Business,3rd,IB,48,41,89,178
+11,Elijah Robinson,"Harvard University, USA",MBA,Innovation Entrepreneurship and Venture Development,3rd,E&I,48,41,89,178
+12,Zoey Hayes,"Harvard University, USA",MBA,Innovation Entrepreneurship and Venture Development,3rd,E&I,49,40,89,178
+13,Charlotte Wilson,"Harvard University, USA",MBA,Innovation Entrepreneurship and Venture Development,3rd,E&I,47,41,88,176
+14,Jack Scott,"Harvard University, USA",MBA,International Business,3rd,IB,47,41,88,176
+15,Noah Parker,"Harvard University, USA",MBA,Innovation Entrepreneurship and Venture Development,3rd,E&I,48,40,88,176
+16,David Rodriguez,"Harvard University, USA",MBA,Business Analytics,3rd,E&I,47,41,88,176
+17,Harper Jones,"Harvard University, USA",MBA,International Business,3rd,IB,48,39,87,174
+18,Aiden Wood,"Harvard University, USA",MBA,International Business,3rd,IB,44,42,86,172
+19,Lucas Johnson,"Stanford University, USA",MBA,Digital Marketing,3rd,DM,47,38,85,170
+20,Nicholas Jones,"Harvard University, USA",MBA,International Business,3rd,IB,43,41,84,168
+21,Benjamin Richardson,"Stanford University, USA",MBA,International Business,3rd,IB,44,38,82,164
+22,Alexander Moore,"Harvard University, USA",MBA,International Business,3rd,IB,47,31,78,156
+23,Layla Phillips,"Harvard University, USA",MBA,Innovation Entrepreneurship and Venture Development,3rd,E&I,38,38,76,152
+24,Camila Hayes,"Harvard University, USA",MBA,Entrepreneurship & Innovation,3rd,E&I,38,37,75,150
+25,Zoey Rivera,"Stanford University, USA",MBA,Banking and Financial Services,3rd,Finance,38,36,74,148
+26,Sophia King,"Stanford University, USA",MBA,Digital Marketing,3rd,DM,38,36,74,148
+27,Grace Cooper,"Harvard University, USA",MBA,Innovation Entrepreneurship and Venture Development,3rd,E&I,38,36,74,148
+28,Ella Bailey,"Harvard University, USA",MBA,International Business,3rd,IB,50,23,73,146
+29,Harper Nelson,"Stanford University, USA",MBA,International Business,3rd,IB,40,33,73,146
+30,Henry Baker,"Harvard University, USA",MBA,International Business,3rd,IB,40,33,73,146
+31,Abigail Robinson,"Harvard University, USA",MBA,Innovation Entrepreneurship and Venture Development,3rd,E&I,35,37,72,144
+32,Harper Jackson,"Harvard University, USA",MBA,International Business,3rd,IB,50,22,72,144
+33,Elijah Thomas,"Harvard University, USA",MBA,Entrepreneurship & Innovation,3rd,E&I,33,38,71,142
+34,Liam Thompson,"Harvard University, USA",MBA,International Business,3rd,IB,40,31,71,142
+35,Joseph Martinez,"Harvard University, USA",MBA,Innovation Entrepreneurship and Venture Development,3rd,E&I,37,33,70,140
+36,Ethan Adams,"Harvard University, USA",MBA,International Business,3rd,IB,36,31,67,134
+37,Sofia Garcia,"Harvard University, USA",MBA,International Business,3rd,IB,31,36,67,134
+38,Henry Gonzalez,"Harvard University, USA",MBA,International Business,3rd,DM,36,31,67,134
+39,Harper Bailey,"Harvard University, USA",MBA,International Business,3rd,IB,28,36,64,128
+40,Alexander Clark,"Harvard University, USA",MBA,Innovation Entrepreneurship and Venture Development,3rd,E&I,28,36,64,128
+41,Liam Taylor,"Harvard University, USA",MBA,Innovation Entrepreneurship and Venture Development,3rd,E&I,37,25,62,124
+42,Jack Garcia,"Harvard University, USA",MBA,International Business,3rd,IB,38,24,62,124
+43,Sophia Carter,"Harvard University, USA",MBA,International Business,3rd,IB,36,25,61,122
+44,Layla Jackson,"Harvard University, USA",MBA,International Business,3rd,IB,28,33,61,122
+45,Noah Martinez,"Harvard University, USA",MBA,Innovation Entrepreneurship and Venture Development,3rd,E&I,19,34,53,106
+46,Grace Hall,"Harvard University, USA",MBA,Innovation Entrepreneurship and Venture Development,3rd,E&I,28,23,51,102
+47,Carter Wood,"Harvard University, USA",MBA,International Business,3rd,IB,26,18,44,88
+48,Emma Reed,"Harvard University, USA",MBA,International Business,3rd,IB,21,21,42,84
+49,Harper Diaz,"Harvard University, USA",MBA,International Business,3rd,IB,26,15,41,82
+50,James Scott,"Harvard University, USA",MBA,Innovation Entrepreneurship and Venture Development,3rd,E&I,19,19,38,76
+51,Chloe Anderson,"Harvard University, USA",MBA,Innovation Entrepreneurship and Venture Development,3rd,E&I,17,20,37,74
+52,Oliver Turner,"Harvard University, USA",MBA,Innovation Entrepreneurship and Venture Development,3rd,E&I,24,13,37,74
+53,Madison Harris,"Harvard University, USA",MBA,Brand Management,3rd,E&I,15,15,30,60
+54,Andrew Phillips,"Harvard University, USA",MBA,International Business,3rd,IB,22,8,30,60
+55,Evelyn Robinson,"Harvard University, USA",MBA,Innovation Entrepreneurship and Venture Development,3rd,Finance,17,11,28,56
+56,Nicholas Rodriguez,"Harvard University, USA",MBA,International Business,3rd,IB,16,8,24,48
